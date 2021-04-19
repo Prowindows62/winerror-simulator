@@ -1,4 +1,4 @@
-# A Windows XP Error Simulator
+# A Windows 10 Error Simulator
 
 Do you remember the time when Windows XP used to freeze and allow you to draw incredible things using the error window? This webapp does that.
 
@@ -13,3 +13,8 @@ This project makes use of [Vanilla JS](http://vanilla-js.com), [Sass](http://sas
 ## TODO ##
 
 * ~~add support for touchscreen devices~~
+
+
+## Mod Note ##
+
+This project is a fork for making Windows 10 error simulator instead of Windows XP error.
